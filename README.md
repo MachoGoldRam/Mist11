@@ -1,6 +1,4 @@
 TODO
- - [ ] Upload screenshots
- - [ ] Upload TranslucentTB configuration file
  - [ ] Make Wiki
 
 # Mist11
@@ -34,8 +32,8 @@ Install [WindHawk](https://windhawk.net/) along with the following mods. Make su
 You will also have to enable the file explorer and settings icons in the start menu from system settings, along with transparency effects. I advise centering the icons in the taskbar and enabling the weather widget. The feed and distractions can be disabled by setting it up properly.
 
 To get the full intended experience, it's advised that apart from the WindHawk mods, you use the following to provide an elevated look and feel experience:
- - A dark wallpaper that's mainly black with cold-colored, desaturated details.
- - An accent color directly picked from said wallpaper.
+ - A dark wallpaper that's mainly black with cold-colored, desaturated details. (Like the one provided in this repo)
+ - An accent color directly picked from said wallpaper. (Like #A0A0FF)
  - Cursor from [Shalompanna](https://www.deviantart.com/shalompanna) or [JepriCreations](https://www.deviantart.com/jepricreations).
  - [Rectify11](https://rectify11.net/home), Solid black theme. 
  - TranslucentTB. Configuration file has it's same name.
