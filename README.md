@@ -42,3 +42,8 @@ To get the full intended experience, it's advised that apart from the WindHawk m
 
 ## Configuration Parameters
 WIP - Coming in the following days.
+
+TODO
+ - [ ] Upload screenshots
+ - [ ] Upload wallpaper
+ - [ ] Make Wiki
