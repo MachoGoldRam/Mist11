@@ -7,9 +7,11 @@ TODO
 
 > [!NOTE]
 > You will need to tweak the values in the configurations themselves to adapt to your system; descriptions provided below. This mod was made in a single 1366x768 display, Windows 11 24H2.
-> Install all the mods and import their configurations before you start tweaking.
-> There a small inconsistencies regarding animations of certain elements, but they don't impact functionality.
-> If you manage to fix these inconsistencies and/or find a series of configurations that work for a layout in a screen resolution not defined below, please share them with a commit.
+
+Install all the mods and import their configurations before you start tweaking.
+There a small inconsistencies regarding animations of certain elements, but they don't impact functionality.
+If you manage to fix these inconsistencies and/or find a series of configurations that work for a layout in a screen resolution not defined below, please share them with a commit.
+Previews on-desktop of acrylic zones on windows will appear fully transparent and may impact visibility.
 
 ## Setup
 Install [WindHawk](https://windhawk.net/) along with the following mods. Make sure to allow modifications of `dwm.exe`, `SearchHost.exe` and `ExplorerFrame.exe` in WindHawk settings.
