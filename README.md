@@ -1,6 +1,6 @@
 TODO
  - [ ] Upload screenshots
- - [ ] Upload wallpaper
+ - [ ] Upload TranslucentTB configuration file
  - [ ] Make Wiki
 
 # Mist11
