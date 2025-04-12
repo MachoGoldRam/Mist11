@@ -33,7 +33,7 @@ To get the full intended experience, it's advised that apart from the WindHawk m
  - An accent color directly picked from said wallpaper.
  - Cursor from [Shalompanna](https://www.deviantart.com/shalompanna) or [JepriCreations](https://www.deviantart.com/jepricreations).
  - [Rectify11](https://rectify11.net/home), Solid black theme. 
- - TranslucentTB. Configuration files are provided in the directory of the same name.
+ - TranslucentTB. Configuration file has it's same name.
 
 > [!WARNING]
 > Rectify11 can only be installed in fresh OS deployments. Mica options must be DESELECTED upon installation.
