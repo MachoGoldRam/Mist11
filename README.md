@@ -17,6 +17,7 @@ Acrylic zones will appear fully transparent on peek. Peek can be disabled in adv
 ## Setup
  1. Install [WindHawk](https://windhawk.net/) along with the following mods. Make sure to allow modifications of `dwm.exe`, `SearchHost.exe` and `ExplorerFrame.exe` in WindHawk settings.
 *"Strict dependency" means the mod is required for a cohesive experience or not. All are still recommended.*
+
 | Mod ID | Version | Strict Dependency |
 |--|--|--|
 | windows-11-taskbar-styler | 1.3.10 | YES |
@@ -32,6 +33,7 @@ Acrylic zones will appear fully transparent on peek. Peek can be disabled in adv
 | explorerframe-fixes-for-win11-22h2plus | 1.0.1 | NO |
 | file-explorer-remove-suffixes | 1.0 | NO |
 | slick-window-arrangement | 1.0.2 | NO |
+
  2. You will also have to enable the file explorer and settings icons in the start menu from system settings, along with transparency effects. I advise centering the icons in the taskbar and enabling the weather widget. The feed and distractions can be disabled by setting it up properly.
  3. Download this repository, open the configuration files ([mod-id].whk) and paste them into: Mod page > Advanced > Mod Settings (Text box). Click "Save".
  4. At last, start tweaking until you are satisfied.
