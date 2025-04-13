@@ -12,12 +12,12 @@ TODO
 
 Install all the mods and import their configurations before you start tweaking.
 There a small inconsistencies regarding animations of certain elements, but they don't impact functionality.
-If you manage to fix these inconsistencies and/or find a series of configurations that work for a layout in a screen resolution not defined below, please share them with a commit.
-Acrylic zones will appear fully transparent on peek. It can be disabled in advanced system configuration.
+If you manage to fix these inconsistencies and/or find a series of configurations that work for a layout in a screen resolution not defined in the wiki, please share them with a commit.
+Acrylic zones will appear fully transparent on peek. Peek can be disabled in advanced system configuration.
 
 ## Setup
 Install [WindHawk](https://windhawk.net/) along with the following mods. Make sure to allow modifications of `dwm.exe`, `SearchHost.exe` and `ExplorerFrame.exe` in WindHawk settings.
-*"Strict dependency" means if the mod is required for a cohesive experience or not. All are still recommended.*
+*"Strict dependency" means the mod is required for a cohesive experience or not. All are still recommended.*
 | Mod ID | Version | Strict Dependency |
 |--|--|--|
 | windows-11-taskbar-styler | 1.3.10 | YES |
