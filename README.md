@@ -5,6 +5,8 @@ TODO
 # Mist11
 *A compilation of WindHawk mod configurations and tweaks to make Microsoft's operating system truly beautiful.*
 
+![Inline Preview](./screenshots/inline.png)
+
 > [!NOTE]
 > You will need to tweak the values in the configurations themselves to adapt to your system; descriptions provided below. This mod was made in a single 1366x768 display, Windows 11 24H2.
 
