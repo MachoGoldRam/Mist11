@@ -48,3 +48,10 @@ To get the full intended experience, it's advised that apart from the WindHawk m
 
 ## Configuration Parameters
 WIP - Coming in the following days.
+
+##Acknowledgement
+Ageo typeface by [Eko Bimantada](https://fontesk.com/designer/eko-bimantara/).
+Aerial view of waves by [Idan Canfi](https://www.pexels.com/@idan-canfi-779084/).
+Windhawk by [Ramen Software](https://ramensoftware.com/) ([Michael Maltsev](https://github.com/m417z)).
+Mods these configurations are based on by [Undisputed00x](https://github.com/Undisputed00x).
+TranslucentTB by [Charles Milette](https://github.com/sylveon), [Emma Smith](https://github.com/emmatyping) and [Oliver Cheng](https://github.com/olliecheng).
