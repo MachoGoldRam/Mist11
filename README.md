@@ -1,7 +1,3 @@
-TODO
- - [ ] Make Wiki
- - [ ] Make configuration setup per resolution
-
 # Mist11
 *A compilation of WindHawk mod configurations and tweaks to make Microsoft's operating system truly beautiful.*
 
@@ -13,6 +9,8 @@ TODO
 There a small inconsistencies regarding animations of certain elements, but they don't impact functionality.
 If you manage to fix these inconsistencies and/or find a series of configurations that work for a layout in a screen resolution not defined in the wiki, please share them with a commit.
 Acrylic zones will appear fully transparent on peek. Peek can be disabled in advanced system configuration.
+
+
 
 ## Setup
  1. Install [WindHawk](https://windhawk.net/) along with the following mods. Make sure to allow modifications of `dwm.exe`, `SearchHost.exe` and `ExplorerFrame.exe` in WindHawk settings.
@@ -38,8 +36,9 @@ Acrylic zones will appear fully transparent on peek. Peek can be disabled in adv
  3. Download this repository, open the configuration files ([mod-id].whk) and paste them into: Mod page > Advanced > Mod Settings (Text box). Click "Save".
  4. At last, start tweaking on "Settings" until you are satisfied.
 
-## Additional customization resources
 
+
+## Additional customization resources
 To get the full intended experience, it's advised that apart from the WindHawk mods, you use the following to provide an elevated look and feel experience:
  - A dark wallpaper that's mainly black with cold-colored, desaturated details. (Like the one provided in this repo)
  - An accent color directly picked from said wallpaper. (Like #A0A0FF)
@@ -52,9 +51,17 @@ To get the full intended experience, it's advised that apart from the WindHawk m
 > Don't use these mods with MicaForEveryone either.
 > I advise AGAINST using StartAllBack, OpenShell, ExplorerPatcher, Start11 and similar software when using these mods.
 
+
+
 ## Acknowledgement
  - Ageo typeface by [Eko Bimantada](https://fontesk.com/designer/eko-bimantara/).
  - Aerial view of waves by [Idan Canfi](https://www.pexels.com/@idan-canfi-779084/).
  - Windhawk by [Ramen Software](https://ramensoftware.com/) ([Michael Maltsev](https://github.com/m417z)).
  - Mods these configurations are based on by [Undisputed00x](https://github.com/Undisputed00x).
  - TranslucentTB by [Charles Milette](https://github.com/sylveon), [Emma Smith](https://github.com/emmatyping) and [Oliver Cheng](https://github.com/olliecheng).
+
+
+
+##To Do List
+ - [ ] Make Wiki
+ - [ ] Make configuration setup per resolution
