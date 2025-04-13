@@ -36,7 +36,9 @@ Acrylic zones will appear fully transparent on peek. Peek can be disabled in adv
 
  2. You will also have to enable the file explorer and settings icons in the start menu from system settings, along with transparency effects. I advise centering the icons in the taskbar and enabling the weather widget. The feed and distractions can be disabled by setting it up properly.
  3. Download this repository, open the configuration files ([mod-id].whk) and paste them into: Mod page > Advanced > Mod Settings (Text box). Click "Save".
- 4. At last, start tweaking until you are satisfied.
+ 4. At last, start tweaking on "Settings" until you are satisfied.
+
+## Additional customization resources
 
 To get the full intended experience, it's advised that apart from the WindHawk mods, you use the following to provide an elevated look and feel experience:
  - A dark wallpaper that's mainly black with cold-colored, desaturated details. (Like the one provided in this repo)
