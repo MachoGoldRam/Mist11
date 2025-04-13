@@ -62,6 +62,6 @@ To get the full intended experience, it's advised that apart from the WindHawk m
 
 
 
-##To Do List
+## To Do List
  - [ ] Make Wiki
  - [ ] Make configuration setup per resolution
