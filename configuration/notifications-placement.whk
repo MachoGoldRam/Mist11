@@ -1,0 +1,8 @@
+{
+  "monitor": 1,                           //Monitor where the desktop notifications are displayed
+  "monitorInterfaceName": "",             //SKIP
+  "horizontalPlacement": "center",        //Horizontal alignment (left, center, right)
+  "horizontalDistanceFromScreenEdge": 0,  //IDEM
+  "verticalPlacement": "top",             //Vertical alignment (top, center, bottom)
+  "verticalDistanceFromScreenEdge": 0     //IDEM
+}

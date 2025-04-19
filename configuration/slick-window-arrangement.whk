@@ -1,0 +1,13 @@
+{
+  "SnapWindowsWhenDragging": 0,       //BOOL IDEM
+  "SnapWindowsDistance": 25,          //Distance for windows to snap to each other
+
+  //BOOL - Keys pressed to disable snapping when moving a window. "Ctrl", "alt" or "shift" respectively.
+  "KeysToDisableSnapping.Ctrl": 0,
+  "KeysToDisableSnapping.Alt": 1,
+  "KeysToDisableSnapping.Shift": 0,
+
+  "SlidingAnimation": 1,              //BOOL - Adds inertia to the window movement, continuing to slide them after release.
+  "SnapWindowsWhenSliding": 0,        //BOOL - Toggles snapping of windows while sliding due to inertia.
+  "SlidingAnimationSlowdown": 20      //Percentage of time in a second where the window will slow down to a stop (From 0 to 99). Will keep sliding the rest of the time: Here the time is 20, meaning the 79% of the time, the window will keep moving due to inertia.
+}

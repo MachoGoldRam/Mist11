@@ -1,0 +1,34 @@
+{
+  //SKIP
+  "ThemeBackground": 1,
+  "type": "acrylicblur",
+  "ExtendFrame": 1,
+
+  //SKIP
+  "TitlebarColor.ColorTitlebar": 0,
+  "TitlebarColor.titlerbarstyles_active": "FF000000",
+  "TitlebarColor.titlerbarstyles_inactive": "FF000000",
+  "TitlebarTextColor.ColorTitlebarText": 0,
+  "TitlebarTextColor.titlerbarcolorstyles_active": "000000",
+  "TitlebarTextColor.titlerbarcolorstyles_inactive": "000000",
+
+  //SKIP
+  "BorderColor.ColorBorder": 1,
+  "BorderColor.borderstyles_active": "0",
+  "BorderColor.borderstyles_inactive": "0",
+  "BorderColor.MenuBorderColor": 1,
+
+  //Exception for Twinkle Tray, which doesn't work properly with this mod.
+  "RuledPrograms[0].target": "Twinkle Tray.exe",
+  "RuledPrograms[0].type": "none",
+  "RuledPrograms[0].ExtendFrame": 0,
+  "RuledPrograms[0].TitlebarColor.ColorTitlebar": 0,
+  "RuledPrograms[0].TitlebarColor.titlerbarstyles_active": "FF0000",
+  "RuledPrograms[0].TitlebarColor.titlerbarstyles_inactive": "00FFFF",
+  "RuledPrograms[0].TitlebarTextColor.ColorTitlebarText": 0,
+  "RuledPrograms[0].TitlebarTextColor.titlerbarcolorstyles_active": "FF0000",
+  "RuledPrograms[0].TitlebarTextColor.titlerbarcolorstyles_inactive": "00FFFF",
+  "RuledPrograms[0].BorderColor.ColorBorder": 0,
+  "RuledPrograms[0].BorderColor.borderstyles_active": "0",
+  "RuledPrograms[0].BorderColor.borderstyles_inactive": "0"
+}

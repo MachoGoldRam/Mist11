@@ -1,0 +1,14 @@
+{
+  //IDEM
+  "hideVolumeIcon": 1,
+  "hideNetworkIcon": 1,
+  "hideBatteryIcon": 1,
+  "hideMicrophoneIcon": 1,
+  "hideGeolocationIcon": 1,
+  "hideLanguageBar": 1,
+  "hideLanguageSupplementaryIcons": 1,
+  "hideBellIcon": "always",
+
+  //PIX IDEM
+  "showDesktopButtonWidth": 12
+}

@@ -1,0 +1,5 @@
+{
+  "IconSize": 16,           //PIX - Size of icons in the taskbar itself. Advised: 8, 16, 24, 32
+  "TaskbarHeight": 38,      //PIX - Height of the taskbar. make sure there is a margin for the icons and clock.
+  "TaskbarButtonWidth": 34  //PIX - Width of the buttons in the taskbar, AKA The highlight on open applications and clickable fields.
+}

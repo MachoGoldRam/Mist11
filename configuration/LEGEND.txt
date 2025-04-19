@@ -1,0 +1,7 @@
+Comment legend:
+//          Start of comment
+SKIP        Look into the individual mod's documentation or instructions to modify these
+IDEM        The very same description found in the parameter's name
+BOOL        Toggle using a boolean: 1 = True/Yes | 0 = False/No.
+PIX         Indicates the value is measured in pixels.
+THICKNESS   The thickness of borders in pixels.

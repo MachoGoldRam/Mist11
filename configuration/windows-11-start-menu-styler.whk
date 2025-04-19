@@ -1,0 +1,82 @@
+//To change the start menu's vertical location (height), modify the second value of the "Margin" property on line [81] to a number in positives, and then the height of the menu on line [32]. Do it in small increments to feel out the correct parameters.
+{
+  //SKIP
+  "theme": "",
+  "webContentCustomJs": "",
+  "resourceVariables[0].variableKey": "",
+  "resourceVariables[0].value": "",
+
+  //PIX - Start menu border THICKNESS
+  "controlStyles[0].target": "Windows.UI.Xaml.Controls.Border#AcrylicBorder",
+  "controlStyles[0].styles[0]": "BorderThickness=0",
+
+  //Disable search box
+  "controlStyles[1].target": "StartDocked.SearchBoxToggleButton",
+  "controlStyles[1].styles[0]": "Height=0",
+
+  //Hide the recommended list by making the pinned list taller in PIX
+  "controlStyles[2].target": "StartMenu.PinnedList",
+  "controlStyles[2].styles[0]": "Height=160",
+
+  //Disable user profile icon
+  "controlStyles[3].target": "StartDocked.UserTileView",
+  "controlStyles[3].styles[0]": "Visibility=Collapsed",
+
+  //Move power and other options to the center by tweaking the margin in PIX
+  "controlStyles[4].target": "StartDocked.PowerOptionsView",
+  "controlStyles[4].styles[0]": "Margin=0,0,208,0",
+
+  //Size of start menu in PIX, also changes it's on-screen location to the top - Only height works
+  "controlStyles[5].target": "StartDocked.StartSizingFrame",
+  "controlStyles[5].styles[0]": "MaxWidth=660",
+  "controlStyles[5].styles[1]": "MaxHeight=320",
+
+  //Moves the pinned list upward to fill the empty space left by the search box by tweaking the margin in PIX
+  "controlStyles[6].target": "Windows.UI.Xaml.Controls.Grid#InnerContent",
+  "controlStyles[6].styles[0]": "Margin=0,-20,0,0",
+
+  //Hides the pinned section title by changing it's text to nothing
+  "controlStyles[7].target": "Windows.UI.Xaml.Controls.TextBlock#PinnedListHeaderText",
+  "controlStyles[7].styles[0]": "Text=",
+
+  //Changes the "All" button location to the bottom of the start menu by tweaking the margin in PIX
+  "controlStyles[8].target": "Windows.UI.Xaml.Controls.Button#ShowAllAppsButton",
+  "controlStyles[8].styles[0]": "Margin=0,0,16,-388",
+
+  //SKIP
+  "controlStyles[10].target": "StartDocked.StartSizingFrame",
+  "controlStyles[10].styles[0]": "Canvas.Top=8",
+
+  //SKIP
+  "controlStyles[11].target": "Windows.UI.Xaml.Controls.TextBlock#TopLevelSuggestionsListHeaderText",
+  "controlStyles[11].styles[0]": "Text=",
+
+  //BETTER TO SKIP: Manual tweaks that took hours to find the values of to make the start menu UI work properly with folders - Be careful with your sanity when changing these - Trial and error based
+  "controlStyles[12].target": "Windows.UI.Xaml.Controls.GridView#FolderList",
+  "controlStyles[12].styles[0]": "Height=80",
+  "controlStyles[13].target": "StartMenu.PinnedListTile > Windows.UI.Xaml.Controls.Grid#Root",
+  "controlStyles[13].styles[0]": "Padding=0,8,0,0",
+  "controlStyles[14].target": "Windows.UI.Xaml.Controls.GridViewItem > Windows.UI.Xaml.Controls.Border#ContentBorder",
+  "controlStyles[14].styles[0]": "MaxHeight=80",
+  "controlStyles[15].target": "Windows.UI.Xaml.Controls.ContentPresenter#ContentPresenter > Windows.UI.Xaml.Controls.Grid",
+  "controlStyles[15].styles[0]": "Padding=0,-4,0,0",
+  "controlStyles[16].target": "Windows.UI.Xaml.Controls.Border#AppBorder",
+  "controlStyles[16].styles[0]": "BorderThickness=0,0,0,0",
+
+  //Search UI: Tweaks height size
+  "controlStyles[17].target": "Cortana.UI.Views.TaskbarSearchPage > Windows.UI.Xaml.Controls.Grid#RootGrid",
+  "controlStyles[17].styles[0]": "Height=700",
+
+  //Search UI: Makes the search bar into a single underline under the query
+  "controlStyles[18].target": "Cortana.UI.Views.RichSearchBoxControl#SearchBoxControl",
+  "controlStyles[18].styles[0]": "Margin=0,0,0,0",
+
+  //Search UI: Removes the search icon
+  "controlStyles[19].target": "Microsoft.UI.Xaml.Controls.AnimatedIcon#SearchIconPlayer",
+  "controlStyles[19].styles[0]": "Visibility=Collapsed",
+  "controlStyles[17].styles[1]": "Width=700"
+
+  //Start menu height margin
+  "controlStyles[20].target": "Windows.UI.Xaml.Controls.Canvas",
+  "controlStyles[20].styles[0]": "Margin=0,0,0,0"
+}

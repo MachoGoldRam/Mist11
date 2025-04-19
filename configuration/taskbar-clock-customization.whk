@@ -1,0 +1,51 @@
+{
+  "ShowSeconds": 1,                                                 //BOOL - Enables seconds to be displayed on clock
+  "TimeFormat": "HH':'mm':'ss",                                     //Format of time:           Hours, minutes, seconds. All with leading zeros.
+
+  "DateFormat": "dd MMM",                                           //Format of date:           Day number with leading zero. Month name abbreviation.
+
+  "WeekdayFormat": "custom",                                        //SKIP
+  "WeekdayFormatCustom": "Sun, Mon, Tue, Wed, Thu, Fri, Sat",       //Abbreviated name of each weekday
+
+  "TopLine": "%time%",                                              //Top line of the clock:    Time as formatted above
+  "BottomLine": "%weekday%. %date%",                                //Bottom line of the clock: Weekday as formatted above
+  "MiddleLine": "",                                                 //SKIP
+  "TooltipLine": "",                                                //SKIP
+
+  "Width": 180,                                                     //SKIP
+  "Height": 60,                                                     //SKIP
+  "MaxWidth": 0,                                                    //SKIP
+  "TextSpacing": 0,                                                 //SKIP
+
+  "WebContentsItems[0].Url": "",                                    //SKIP
+  "WebContentsItems[0].BlockStart": "<item>",                       //SKIP
+  "WebContentsItems[0].Start": "<title>",                           //SKIP
+  "WebContentsItems[0].End": "</title>",                            //SKIP
+  "WebContentsItems[0].MaxLength": 28,                              //SKIP
+  "WebContentsUpdateInterval": 10,                                  //SKIP
+  "TimeZones[0]": "",                                               //SKIP
+
+  //Style rules for the time part of the clock. Tweaked to match the weather widget. IDEM.
+  "TimeStyle.Hidden": 0,
+  "TimeStyle.TextColor": "",
+  "TimeStyle.TextAlignment": "Right",
+  "TimeStyle.FontSize": 0,
+  "TimeStyle.FontFamily": "Segoe UI Variable",
+  "TimeStyle.FontWeight": "SemiLight",
+  "TimeStyle.FontStyle": "",
+  "TimeStyle.FontStretch": "",
+  "TimeStyle.CharacterSpacing": 16,
+
+  //Style rules for the date part of the clock. Tweaked to match the weather widget. IDEM.
+  "DateStyle.Hidden": 0,
+  "DateStyle.TextColor": "#CCFFFFFF",
+  "DateStyle.TextAlignment": "Right",
+  "DateStyle.FontSize": 0,
+  "DateStyle.FontFamily": "Segoe UI Variable",
+  "DateStyle.FontWeight": "SemiLight",
+  "DateStyle.FontStyle": "",
+  "DateStyle.FontStretch": "",
+  "DateStyle.CharacterSpacing": 0,
+
+  "oldTaskbarOnWin11": 0                                            //SKIP
+}
