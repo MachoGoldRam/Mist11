@@ -45,8 +45,8 @@ To get the full intended experience, it's advised that apart from the WindHawk m
  - A dark wallpaper that's mainly black with cold-colored, desaturated details. (Like the one provided in this repo)
  - An accent color directly picked from said wallpaper. (Like #A0A0FF)
  - Cursor from [Shalompanna](https://www.deviantart.com/shalompanna) or [JepriCreations](https://www.deviantart.com/jepricreations).
- - [Rectify11](https://rectify11.net/home), Solid black theme. 
- - TranslucentTB. Configuration file has it's same name.
+ - [Rectify11](https://rectify11.net/home), Solid black theme or dark theme with mica (with the mica ticks disabled). 
+ - TranslucentTB. Configuration file has it's same name with the `.json` extension.
 
 > [!WARNING]
 > Rectify11 can only be installed in fresh OS deployments. Mica options must be DESELECTED upon installation.
@@ -64,6 +64,8 @@ To get the full intended experience, it's advised that apart from the WindHawk m
 
 
 
-## To-do list
- - [ ] Make Wiki
- - [ ] Make configuration setup per resolution
+## Gallery
+![File explorer, Task manager and Notifications](./screenshots/apps-notifications.png)
+![Control panel and Start search](./screenshots/control-search.png)
+![Notification](./screenshots/notification.png)
+![Start menu with open folder](./screenshots/start.png)
